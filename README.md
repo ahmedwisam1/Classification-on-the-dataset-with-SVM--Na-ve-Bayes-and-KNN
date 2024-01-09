@@ -62,7 +62,7 @@ It is worth mentioning that the choice of the number of neighbors (k) in the KNN
 
 Conclusion
 
-	In conclusion, this data mining project successfully applied SVM, Naïve Bayes, and KNN algorithms for classification. The project involved loading and preprocessing the dataset, splitting it into training and testing sets, applying feature scaling, training the classifiers, and making predictions on new data points. The KNN classifier achieved the highest accuracy, followed by the SVM and Naïve Bayes classifiers. These results provide valuable insights into the purchase behavior of social network users and can be used for targeted marketing strategies or other business applications. Further research could explore additional algorithms and parameter tuning to improve the classification performance.
+In conclusion, this data mining project successfully applied SVM, Naïve Bayes, and KNN algorithms for classification. The project involved loading and preprocessing the dataset, splitting it into training and testing sets, applying feature scaling, training the classifiers, and making predictions on new data points. The KNN classifier achieved the highest accuracy, followed by the SVM and Naïve Bayes classifiers. These results provide valuable insights into the purchase behavior of social network users and can be used for targeted marketing strategies or other business applications. Further research could explore additional algorithms and parameter tuning to improve the classification performance.
 
 
 
